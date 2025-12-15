@@ -37,6 +37,3 @@ Model performance is compared across accuracy, generalization ability, and compu
 ##  Future Extensions
 - Real-time gesture recognition using webcam
 - Model deployment and optimization
-
-## 👩‍💻 Author
-Fatma Mostafa
